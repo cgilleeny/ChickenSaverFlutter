@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565758111548",
+    "project_id": "canvas-setup-329021",
+    "storage_bucket": "canvas-setup-329021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565758111548:android:566a04275f128651eaf839",
+        "android_client_info": {
+          "package_name": "com.carolinegilleeny.chickensaverflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565758111548-drobsv8ho51aha5eprcc7fl4btvimb4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9t0lf-41tBYhKaO7Hw2SOT2rfiOyS64g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565758111548-drobsv8ho51aha5eprcc7fl4btvimb4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
